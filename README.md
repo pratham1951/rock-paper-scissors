@@ -1,6 +1,9 @@
 # rock-paper-scissors
 Project 2: Rock, Paper, Scissors.
 ![](images/rock-scissors-paper-hand-gesture-260nw-689530327.jpg)
+%
+%
+%
 
 
 
